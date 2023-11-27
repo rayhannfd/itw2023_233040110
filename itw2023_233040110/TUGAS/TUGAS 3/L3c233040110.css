@@ -1,0 +1,48 @@
+body {
+    text-align: justify;
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: darkblue;
+    font-family: Comic Sans MS;
+    font-size: 60px;
+}
+
+
+
+h4 {
+    text-align: right;
+    font-style: italic;
+
+}
+
+.rataTengah {
+    text-align: center;
+    color: orange;
+}
+
+.sandhika {
+    color: white;
+
+
+}
+
+
+
+.diTengah {
+    text-align: center;
+}
+
+.sandhika:hover {
+    color: red;
+    text-decoration: underline
+}
+
+.mark:hover {
+    color: white;
+    background-color: blue;
+}
+
+.mark {}
